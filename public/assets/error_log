@@ -1,0 +1,61 @@
+[10-Jun-2019 12:12:13 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User bataleye_batal already has more than 'max_user_connections' active connections in /home/bataleyecenter/public_html/public/assets/load.php on line 6
+[10-Jun-2019 12:12:13 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bataleyecenter/public_html/public/assets/load.php on line 7
+[10-Jun-2019 12:12:13 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/bataleyecenter/public_html/public/assets/load.php on line 8
+[10-Jun-2019 12:12:14 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User bataleye_batal already has more than 'max_user_connections' active connections in /home/bataleyecenter/public_html/public/assets/load.php on line 6
+[10-Jun-2019 12:12:14 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bataleyecenter/public_html/public/assets/load.php on line 7
+[10-Jun-2019 12:12:14 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/bataleyecenter/public_html/public/assets/load.php on line 8
+[17-Jun-2019 02:36:24 Etc/GMT] PHP Warning:  mysqli::__construct(): (HY000/1130): Host 'localhost' is not allowed to connect to this MySQL server in /home/bataleyecenter/public_html/public/assets/load.php on line 6
+[17-Jun-2019 02:36:24 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bataleyecenter/public_html/public/assets/load.php on line 7
+[17-Jun-2019 02:36:24 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/bataleyecenter/public_html/public/assets/load.php on line 8
+[17-Jun-2019 12:12:00 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User bataleye_batal already has more than 'max_user_connections' active connections in /home/bataleyecenter/public_html/public/assets/load.php on line 6
+[17-Jun-2019 12:12:00 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bataleyecenter/public_html/public/assets/load.php on line 7
+[17-Jun-2019 12:12:00 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/bataleyecenter/public_html/public/assets/load.php on line 8
+[17-Jun-2019 12:12:01 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User bataleye_batal already has more than 'max_user_connections' active connections in /home/bataleyecenter/public_html/public/assets/load.php on line 6
+[17-Jun-2019 12:12:01 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bataleyecenter/public_html/public/assets/load.php on line 7
+[17-Jun-2019 12:12:01 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/bataleyecenter/public_html/public/assets/load.php on line 8
+[22-Oct-2019 09:29:43 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/bataleye/public_html/public/assets/load.php on line 6
+[22-Oct-2019 09:29:44 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bataleye/public_html/public/assets/load.php on line 7
+[22-Oct-2019 09:29:44 UTC] PHP Notice:  Trying to get property of non-object in /home/bataleye/public_html/public/assets/load.php on line 8
+[22-Oct-2019 09:29:48 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/bataleye/public_html/public/assets/load.php on line 6
+[22-Oct-2019 09:29:48 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bataleye/public_html/public/assets/load.php on line 7
+[22-Oct-2019 09:29:48 UTC] PHP Notice:  Trying to get property of non-object in /home/bataleye/public_html/public/assets/load.php on line 8
+[22-Oct-2019 09:29:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/bataleye/public_html/public/assets/load.php on line 6
+[22-Oct-2019 09:29:49 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bataleye/public_html/public/assets/load.php on line 7
+[22-Oct-2019 09:29:49 UTC] PHP Notice:  Trying to get property of non-object in /home/bataleye/public_html/public/assets/load.php on line 8
+[22-Oct-2019 09:29:51 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/bataleye/public_html/public/assets/load.php on line 6
+[22-Oct-2019 09:29:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bataleye/public_html/public/assets/load.php on line 7
+[22-Oct-2019 09:29:51 UTC] PHP Notice:  Trying to get property of non-object in /home/bataleye/public_html/public/assets/load.php on line 8
+[22-Oct-2019 09:30:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/bataleye/public_html/public/assets/load.php on line 6
+[22-Oct-2019 09:30:22 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bataleye/public_html/public/assets/load.php on line 7
+[22-Oct-2019 09:30:22 UTC] PHP Notice:  Trying to get property of non-object in /home/bataleye/public_html/public/assets/load.php on line 8
+[29-Oct-2019 09:39:29 UTC] PHP Warning:  mysqli::__construct(): MySQL server has gone away in /home/bataleye/public_html/public/assets/load.php on line 6
+[29-Oct-2019 09:39:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in /home/bataleye/public_html/public/assets/load.php on line 6
+[29-Oct-2019 09:39:30 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bataleye/public_html/public/assets/load.php on line 7
+[29-Oct-2019 09:39:30 UTC] PHP Notice:  Trying to get property of non-object in /home/bataleye/public_html/public/assets/load.php on line 8
+[02-Jul-2020 03:23:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/bataleye/public_html/public/assets/load.php on line 6
+[02-Jul-2020 03:23:58 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bataleye/public_html/public/assets/load.php on line 7
+[02-Jul-2020 03:23:58 UTC] PHP Notice:  Trying to get property of non-object in /home/bataleye/public_html/public/assets/load.php on line 8
+[02-Jul-2020 03:23:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/bataleye/public_html/public/assets/load.php on line 6
+[02-Jul-2020 03:23:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bataleye/public_html/public/assets/load.php on line 7
+[02-Jul-2020 03:23:59 UTC] PHP Notice:  Trying to get property of non-object in /home/bataleye/public_html/public/assets/load.php on line 8
+[02-Jul-2020 03:24:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/bataleye/public_html/public/assets/load.php on line 6
+[02-Jul-2020 03:24:00 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bataleye/public_html/public/assets/load.php on line 7
+[02-Jul-2020 03:24:00 UTC] PHP Notice:  Trying to get property of non-object in /home/bataleye/public_html/public/assets/load.php on line 8
+[02-Jul-2020 03:24:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/bataleye/public_html/public/assets/load.php on line 6
+[02-Jul-2020 03:24:01 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bataleye/public_html/public/assets/load.php on line 7
+[02-Jul-2020 03:24:01 UTC] PHP Notice:  Trying to get property of non-object in /home/bataleye/public_html/public/assets/load.php on line 8
+[02-Jul-2020 03:24:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/bataleye/public_html/public/assets/load.php on line 6
+[02-Jul-2020 03:24:02 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bataleye/public_html/public/assets/load.php on line 7
+[02-Jul-2020 03:24:02 UTC] PHP Notice:  Trying to get property of non-object in /home/bataleye/public_html/public/assets/load.php on line 8
+[02-Jul-2020 03:24:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/bataleye/public_html/public/assets/load.php on line 6
+[02-Jul-2020 03:24:03 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bataleye/public_html/public/assets/load.php on line 7
+[02-Jul-2020 03:24:03 UTC] PHP Notice:  Trying to get property of non-object in /home/bataleye/public_html/public/assets/load.php on line 8
+[02-Jul-2020 03:24:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/bataleye/public_html/public/assets/load.php on line 6
+[02-Jul-2020 03:24:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bataleye/public_html/public/assets/load.php on line 7
+[02-Jul-2020 03:24:04 UTC] PHP Notice:  Trying to get property of non-object in /home/bataleye/public_html/public/assets/load.php on line 8
+[02-Jul-2020 03:24:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/bataleye/public_html/public/assets/load.php on line 6
+[02-Jul-2020 03:24:05 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bataleye/public_html/public/assets/load.php on line 7
+[02-Jul-2020 03:24:05 UTC] PHP Notice:  Trying to get property of non-object in /home/bataleye/public_html/public/assets/load.php on line 8
+[02-Jul-2020 03:24:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/bataleye/public_html/public/assets/load.php on line 6
+[02-Jul-2020 03:24:06 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bataleye/public_html/public/assets/load.php on line 7
+[02-Jul-2020 03:24:06 UTC] PHP Notice:  Trying to get property of non-object in /home/bataleye/public_html/public/assets/load.php on line 8

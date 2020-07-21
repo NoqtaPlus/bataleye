@@ -1,0 +1,10 @@
+[13-Mar-2018 10:48:10 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/previewmahac/public_html/tersana/vendor/symfony/finder/Comparator/NumberComparator.php on line 42
+[13-Mar-2018 10:48:10 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Mar-2018 10:48:10 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/previewmahac/public_html/tersana/vendor/symfony/finder/Comparator/NumberComparator.php on line 42
+[13-Mar-2018 10:48:10 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Mar-2018 10:48:21 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/previewmahac/public_html/tersana/vendor/symfony/finder/Comparator/NumberComparator.php on line 42
+[13-Mar-2018 10:48:21 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Mar-2018 10:48:21 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/previewmahac/public_html/tersana/vendor/symfony/finder/Comparator/NumberComparator.php on line 42
+[13-Mar-2018 10:48:21 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Oct-2019 05:52:54 UTC] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/bataleye/public_html/vendor/symfony/http-foundation/HeaderUtils.php on line 21
+[20-Oct-2019 05:52:54 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0

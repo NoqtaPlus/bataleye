@@ -1,0 +1,79 @@
+/*================================
+=                                =
+=  - Tornado CSS v2              =
+=  - Userinterface Framework     =
+=  - by Abdullah Ramadan         =
+=  - http://eng-code.com         =
+=  - Open Source Framework       =
+=                                =
+================================*/
+
+//========== Global Variables ==========//
+$page-dir:rtl;
+$page-dir-reverse:ltr;
+$direction:right;
+$directionReverse:left;
+//========== Colors Variables ==========//
+$primary-color:#0078f0;
+$primary-color-hover:#0047ab;
+$secondary-color:#160e5b;
+$secondary-color-hover:#fa8b41;
+$reverse-color:#FFF;
+$reverse-color-dark:#1c1c1c;
+$light-color:#cad0e0;
+$black-color:#222222;
+//=== Assets text colors ====//
+$success-color:#22b544;
+$danger-color:#de3131;
+$warning-color:#f4bb0e;
+$info-color:#17c0db;
+$gray-color:#868e96;
+$dark-color:#444444;
+//=== Assets backgrounds ====//
+$success-bg:#c1eecc;
+$danger-bg:#fbbbbb;
+$warning-bg:#ffdd75;
+$info-bg:#a6eaf5;
+$gray-bg:#d9dde1;
+$dark-bg:#343a40;
+//========== Typography ==========//
+$primary-font:'Helvetica'; // font family for Head's and Titles
+$secondary-font:'Helvetica'; // font family for Paragraph and Small Text
+$base-l-size:16px; // Base Font Size For Large Screens
+$base-m-size:15px; // Base Font Size For Medium Screens
+$base-s-size:14px; // Base Font Size For Small Screens
+$base-line-height:1.625; // Base Line Height
+$normal-weight:400; // Normal Font Weight
+$meduim-weight:700; // Medium Font Weight
+$strong-weight:700; // Bold/Bolder Font Weight
+//========== Grid System ==========//
+$grid-columns:12; // Numbers of Gride Columns
+$gutterSize:30px; // the Space Between Columns
+$gutterMath:$gutterSize/2; // the Space Between Columns Divided
+$small-query:576px; //  Mobile Screen Size to start from
+$medium-query:980px; // Tablet Screen Size to start from
+$large-query:1024px; // Desktop Screen Size to start from
+$xlarge-query:1400px; // Big Desktop Screen Size to start from
+//========== Global Sass ==========//
+@import 'assets/mixins';
+@import 'assets/selectors';
+/*========== Loading Fonts ==========*/
+@font-face{font-family:'Helvetica';font-style:normal;font-weight:normal;src:url('../fonts/helvetica-regular.woff') format('woff');}
+@font-face{font-family:'Helvetica';font-style:normal;font-weight:bold;src:url('../fonts/helvetica-bold.woff') format('woff');}
+@font-face{font-family:"tornado-icons";font-style:normal;font-weight:normal;src:url('../fonts/tornado-icons.woff') format('woff');}
+/*========== Reset and Typography CSS ==========*/
+@import 'assets/reset';
+@import 'elements/typography';
+/*========== Grid System ==========*/
+@import 'grid/grid-system';
+/*========== Forms ==========*/
+@import 'forms/form-themes';
+@import 'forms/alerts';
+/*========== Components ==========*/
+@import 'components/tables';
+@import 'components/tabs-system';
+@import 'components/slick-slider';
+/*========== Icons Font CSS ==========*/
+@import 'tornado-icons';
+/*========== Website Theme ==========*/
+@import 'theme';

@@ -1,0 +1,27 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+RewriteCond %{HTTP_HOST} !^bataleyecenter.com$ [NC]
+RewriteRule ^(.*)$ http://bataleyecenter.com/$1 [L,R=301]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ index.php [L]
+
+<IfModule mod_security.c>
+  SecFilterEngine Off
+  SecFilterScanPOST Off
+</IfModule>
+
+<IfModule php7_module>
+   php_flag display_errors Off
+   php_value max_execution_time 6000
+   php_value max_input_time 6000
+   php_value max_input_vars 6000
+   php_value memory_limit 6024M
+   php_value post_max_size 6024M
+   php_value session.gc_maxlifetime 1440
+   php_value session.save_path "/var/cpanel/php/sessions/ea-php56"
+   php_value upload_max_filesize 6024M
+   php_flag zlib.output_compression Off
+</IfModule>
